@@ -8,7 +8,3 @@ Status (Concluído # | Pendente *)
 -Criar Pasta Package para cada tabela #
 
 -Criar cada tabela dentro do db.imigration #
-
-
-rebolar pros cria
-
